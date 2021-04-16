@@ -1,0 +1,11 @@
+.search-form {
+    max-width: 500px;
+    margin: 0 auto;
+    text-align: center;
+}
+.search-form .submit-btn {
+    width: 100%;
+}
+.search-form .error-msg {
+    color: red;
+}
